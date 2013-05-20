@@ -30,4 +30,5 @@ public class TestPalindromo {
         palindromo = new Palindromo("1210");
         assertFalse(palindromo.isPalindromo());
     }
+    
 }
