@@ -1,3 +1,5 @@
+package Test;
+
 import Calculate.Palindromo;
 import static org.junit.Assert.*;
 import org.junit.Test;
